@@ -1,0 +1,8 @@
+discord.py
+asyncpraw
+python-telegram-bot
+Flask
+pyping
+mcstatus
+pysftp
+mcrcon

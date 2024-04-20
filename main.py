@@ -361,4 +361,4 @@ async def on_message(message):
         await message.channel.send(separator.join(instructions))
 
 keep_alive()
-client.run("ODY5MjgzOTIyMzAxODI1MDM1.YP79vQ.x67e3QoLlIxdaCWyghbbKpy_yfg")
+client.run("<token>")
